@@ -1,0 +1,98 @@
+name: Addition
+description: Suggest the addition of a plugin to the list!
+title: "[Addition]"
+labels: ["Addition"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Issue will be closed if incomplete. These are required before submitting and by submitting you agree that you have actually done them.
+      options:
+        - label: I've checked that my plugin suggestion hasn't already been added to one of the lists.
+          required: true
+        - label: I've checked the latest issues to make sure that this plugin hasn't already been suggested.
+          required: true
+  - type: input
+    attributes:
+      label: What is your plugin's name?
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: What is your plugin's main version?
+      description: The main version that the plugin is currently targeting. Usually the latest version of Minecraft.
+      options:
+        - 1.8.X or earlier
+        - 1.12.X
+        - 1.15.X
+        - 1.16.X
+        - 1.17.X
+        - 1.18.X
+        - 1.19.X
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: What is your plugins's other versions?
+      description: Other versions that the plugin works with. Leave blank if none.
+      multiple: true
+      options:
+        - 1.8.X or earlier
+        - 1.12.X
+        - 1.15.X
+        - 1.16.X
+        - 1.17.X
+        - 1.18.X
+        - 1.19.X
+        - Other
+    validations:
+      required: false
+  - type: dropdown
+    attributes:
+      label: What platform(s) dose this plugin run on?
+      multiple: true
+      options:
+        - Spigot
+        - Paper
+        - Purpur
+        - Bungeecord
+        - Velocity
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: What is your plugin's type?
+      description: The type of plugin that it is and where it should go on the list(s). Main/Primary type only.
+      options:
+        - Performance
+        - Bugfix
+        - Enhancement
+        - Enhancement (Helpful)
+        - Enhancement (Improvement)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Dose the plugin need anything on the client side?
+      description: Leave blank if no.
+    validations:
+      required: false
+  - type: input
+    attributes:
+      label: Input a link to your suggested plugin.
+      description: If the plugin is hosted on a site listed on [StopModReposts](https://stopmodreposts.org/sites) we will not add it to the list. Sites like Modrinth, SpigotMC, and GitHub are fine.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What is your reasoning for including this plugin?
+      description: Please provide a detailed explanation of why you think this plugin should be added to the list. Such as what is dose, how it works, and why it is useful.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: (OPTIONAL) Give some extra information about the plugin.
+      description: This is optional, but if you have any extra information about the plugin, such as the plugin's license, if it is open source, or anything else you feel we may need to know, you can put it here.
