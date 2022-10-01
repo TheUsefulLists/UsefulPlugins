@@ -12,6 +12,18 @@ Everything that is under consideration to be added is found in under issues or p
 Keep in mind that nothing in the github issues is screened for harmful code (or malware). Download at your own caution.
 Items are only screen for harmful code when they are added to the list. Exercise general caution when downloading anything.
 
-## Version List
+## Catagories
 
-WIP
+| Name | Description |
+| ---- | ----------- |
+| [Enhancements](Enhancements/README.md) | Plugins that enhance already existing features. |
+| [Performance](Performance/README.md) | Plugins that help with performance. |
+| [Bug Fixes](BugFixes/README.md) | Plugins that fix bugs. |
+
+### Enhancements Sub-Catagories
+
+| Name | Description |
+| ---- | ----------- |
+| [Additions](Enhancements/Additions/README.md) | Plugins that add new features. |
+| [Helpful](Enhancements/Helpful/README.md) | Plugins that help the player or staff. |\
+| [Improvements](Enhancements/Improvements/README.md) | Plugins that improve already existing features. |
