@@ -10,3 +10,4 @@ Plugins that add new features.
 | [LiteAnnouncer](https://www.spigotmc.org/resources/23918/) | Adds an announcer system for Bungeecord | 1.8.8 - 1.19.x | Bungeecord and forks |
 | [WCNP](https://www.spigotmc.org/resources/24717/) | Adds a command blocker for Bungeecord | 1.8.8 - 1.19.x | Bungeecord and forks |
 | [MyCommand (for Bungeecord)](https://www.spigotmc.org/resources/mycommand-for-bungeecord.72445/) | Allows for the making of custom commands | 1.8.8 - 1.19.x | Bungeecord and forks |
+| [ExtraContexts](https://github.com/LuckPerms/ExtraContexts) | Adds extra contexts for LuckPerms | 1.8.8 - 1.19.x | Bukkit and forks |
