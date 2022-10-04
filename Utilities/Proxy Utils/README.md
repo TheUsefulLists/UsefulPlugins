@@ -11,3 +11,4 @@ Plugins that provide various proxy related utilities.
 | [MyCommand (for Bungeecord)](https://www.spigotmc.org/resources/mycommand-for-bungeecord.72445/) | Allows for the making of custom commands | 1.8.8 - 1.19.x | |
 | [BungeeCommandWatcher](https://www.spigotmc.org/resources/51735/) | Allows for staff to watch every command a player dose. | 1.8.8 - 1.19.x | |
 | [ServerUtils](https://www.spigotmc.org/resources/79599/) | Provides various server utilities. | 1.8.8 - 1.19.x |  |
+| [BungeeList](https://www.spigotmc.org/resources/78034/) | Allows for customization of the /glist command. | 1.8.8 - 1.19.x | |
