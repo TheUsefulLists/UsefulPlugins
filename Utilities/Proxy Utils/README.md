@@ -12,3 +12,4 @@ Plugins that provide various proxy related utilities.
 | [BungeeCommandWatcher](https://www.spigotmc.org/resources/51735/) | Allows for staff to watch every command a player dose. | 1.8.8 - 1.19.x | |
 | [ServerUtils](https://www.spigotmc.org/resources/79599/) | Provides various server utilities. | 1.8.8 - 1.19.x |  |
 | [BungeeList](https://www.spigotmc.org/resources/78034/) | Allows for customization of the /glist command. | 1.8.8 - 1.19.x | |
+| [BungeeTabListPlus](https://www.spigotmc.org/resources/313/) | Allows for more customization of the tab list and cross network tab lists | 1.8.8 - 1.19.x | Has backend plugin to allow for server placeholders |
