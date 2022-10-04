@@ -19,6 +19,7 @@ Items are only screen for harmful code when they are added to the list. Exercise
 | [Enhancements](Enhancements/README.md) | Plugins that enhance already existing features. |
 | [Performance](Performance/README.md) | Plugins that help with performance. |
 | [Bug Fixes](BugFixes/README.md) | Plugins that fix bugs. |
+| [Utilities](Utilities/README.md) | Plugins that provide utilities. |
 
 ### Enhancements Sub-Catagories
 
@@ -27,3 +28,12 @@ Items are only screen for harmful code when they are added to the list. Exercise
 | [Additions](Enhancements/Additions/README.md) | Plugins that add new features. |
 | [Helpful](Enhancements/Helpful/README.md) | Plugins that help the player or staff. |\
 | [Improvements](Enhancements/Improvements/README.md) | Plugins that improve already existing features. |
+
+### Utilities Sub-Catagories
+
+| Name | Description |
+| ---- | ----------- |
+| [Staff Utils](Utilities/Staff%20Utils/README.md) | Plugins that provide various staff related utilities. |
+| [Server Utils](Utilities/Server%20Utils/README.md) | Plugins that provide various server related utilities. |
+| [Proxy Utils](Utilities/Proxy%20Utils/README.md) | Plugins that provide various proxy related utilities. |
+| [Player Utils](Utilities/Player%20Utils/README.md) | Plugins that provide various player related utilities. |
