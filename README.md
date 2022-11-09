@@ -26,7 +26,7 @@ Items are only screen for harmful code when they are added to the list. Exercise
 | Name | Description |
 | ---- | ----------- |
 | [Additions](Enhancements/Additions/README.md) | Plugins that add new features. |
-| [Helpful](Enhancements/Helpful/README.md) | Plugins that help the player or staff. |\
+| [Helpful](Enhancements/Helpful/README.md) | Plugins that help the player or staff. |
 | [Improvements](Enhancements/Improvements/README.md) | Plugins that improve already existing features. |
 
 ### Utilities Sub-Catagories
