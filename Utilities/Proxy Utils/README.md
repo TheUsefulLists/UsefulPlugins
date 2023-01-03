@@ -14,3 +14,4 @@ Plugins that provide various proxy related utilities.
 | [ServerUtils](https://www.spigotmc.org/resources/79599/) | Provides various server utilities. | 1.8.8 - 1.19.x |  |
 | [BungeeList](https://www.spigotmc.org/resources/78034/) | Allows for customization of the /glist command. | 1.8.8 - 1.19.x | |
 | [BungeeTabListPlus](https://www.spigotmc.org/resources/313/) | Allows for more customization of the tab list and cross network tab lists | 1.8.8 - 1.19.x | Has backend plugin to allow for server placeholders |
+| [NuVotifier](https://www.spigotmc.org/resources/13449/) | Allows for listening and proxy-ing votes | 1.8.8 - 1.19.x | |
